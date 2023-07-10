@@ -1,1 +1,1 @@
-# SOSC-Competititive-Programming-DSA-1
+# SOSC-Competititive-Programming-DSA(mini-project)-1
