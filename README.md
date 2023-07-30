@@ -30,11 +30,22 @@ The program takes the following steps:
 
 6. The program will display the encoded or decoded message accordingly.
 
-## Note
+## More Information
 
+For more information about arrays and strings in C++, you can refer to the following resources:
+
+1. [Arrays in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-array/)
+2. [Strings in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/strings-in-c/)
+3. [Replace every character of string by character whose ASCII value is k times more than it - GeeksforGeeks](https://www.geeksforgeeks.org/replace-every-character-of-string-by-character-whose-ascii-value-is-k-times-more-than-it/)
+
+Please note that these resources can be highly beneficial and cover approximately 70% of the project's implementation. However, some challenges and errors may arise during the remaining 30%, where you may need to explore concepts independently and use trial and error methods to find suitable solutions.
+
+To gain further insights into Caesar Cipher and improve your understanding, you can watch this helpful [YouTube video](https://youtu.be/sMOZf4GN3oc).
+
+## Note
 This Caesar Cipher implementation is a basic example and not intended for secure encryption. It's meant for educational purposes and to demonstrate the Caesar Cipher algorithm. For secure encryption, consider using more advanced cryptographic methods.
 
 Feel free to experiment with different messages and shift values to see how the Caesar Cipher works!
 
 ---
-This `README.md` provides a brief description of the Caesar Cipher Encryption and Decryption C++ program. It explains the purpose of the program, how it works, usage instructions, and a note about its intended use for educational purposes only.
+This `README.md` provides a comprehensive description of the Caesar Cipher Encryption and Decryption C++ program, along with additional resources to aid in understanding arrays, strings, and a video tutorial for the Caesar Cipher. It also emphasizes the importance of exploring concepts and adding comments to enhance the development process.
