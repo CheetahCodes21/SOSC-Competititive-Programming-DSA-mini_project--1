@@ -47,5 +47,9 @@ This Caesar Cipher implementation is a basic example and not intended for secure
 
 Feel free to experiment with different messages and shift values to see how the Caesar Cipher works!
 
+## Credits 
+
+- 🧑🏻‍💻 [ChethanPai](https://github.com/CheetahCodes21)
+
 ---
 This `README.md` provides a comprehensive description of the Caesar Cipher Encryption and Decryption C++ program, along with additional resources to aid in understanding arrays, strings, and a video tutorial for the Caesar Cipher. It also emphasizes the importance of exploring concepts and adding comments to enhance the development process.
